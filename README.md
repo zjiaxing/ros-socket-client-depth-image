@@ -8,6 +8,7 @@ How to build depth_client ros package
 
 How to run depth_client ros package   
 There're two ways to run depth_client ros package   
+
 1.roslaunch freenect_launch freenect.launch   
   rosrun depth_server depthServer    
   rosrun depth_client depthClient   
