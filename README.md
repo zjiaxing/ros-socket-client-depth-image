@@ -1,11 +1,11 @@
 # ros-socket-client-depth-image
 
 ROS version indigo   
-=====================================================================
+
 How to build depth_client ros package   
 1) Clone this project to your catkin's workspace src folder   
 2) Running catkin_make to build depth_server and depth_client   
-=====================================================================
+
 How to run depth_client ros package   
 There're two ways to run depth_client ros package   
 1.roslaunch freenect_launch freenect.launch   
